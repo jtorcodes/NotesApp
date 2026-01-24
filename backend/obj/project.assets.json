@@ -2979,11 +2979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Myhr Grace\\Desktop\\Codes\\Active\\notesapp\\backend\\NotesApp.csproj",
+      "projectUniqueName": "C:\\Users\\Myhr Grace\\Desktop\\Codes\\Completed\\NotesApp\\backend\\NotesApp.csproj",
       "projectName": "NotesApp",
-      "projectPath": "C:\\Users\\Myhr Grace\\Desktop\\Codes\\Active\\notesapp\\backend\\NotesApp.csproj",
+      "projectPath": "C:\\Users\\Myhr Grace\\Desktop\\Codes\\Completed\\NotesApp\\backend\\NotesApp.csproj",
       "packagesPath": "C:\\Users\\Myhr Grace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Myhr Grace\\Desktop\\Codes\\Active\\notesapp\\backend\\obj\\",
+      "outputPath": "C:\\Users\\Myhr Grace\\Desktop\\Codes\\Completed\\NotesApp\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
