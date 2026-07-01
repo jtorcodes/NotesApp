@@ -15,7 +15,7 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddDbContext<NotesDbContext>(options =>
-    options.UseSqlite("Data Source=notes.db"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 
