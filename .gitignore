@@ -9,6 +9,9 @@ backend/obj/
 *.sqlite
 *.sqlite3
 
+# App settings (keep local secrets out of Git)
+backend/appsettings.Development.json
+
 # Frontend dependencies and build output
 frontend/node_modules/
 frontend/dist/
